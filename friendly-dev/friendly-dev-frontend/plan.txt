@@ -1,0 +1,9 @@
+For dev purpose following packages and platforms have been used:
+
+> react-router(v7) : For routing and fetching data
+> json-server : For serving(posts and projects) files locally
+> react-markdown : Convert blog text to markdown syntax
+> Formspree(free-tier) : Contact form submission
+> Strapi(CMS) : For managing content(post and projects)
+> Neon : As backend DB
+> Render and Vercel : Backend and Frontend deployment
