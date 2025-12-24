@@ -7,3 +7,6 @@ For dev purpose following packages and platforms have been used:
 > Strapi(CMS) : For managing content(post and projects)
 > Neon : As backend DB
 > Render and Vercel : Backend and Frontend deployment
+
+Frontend Deployment: https://vercel.com/sanjeev-yadavs-projects-ce71ef2b/portfolio-frontend
+Backend Deployment: https://dashboard.render.com/web/srv-d55uk1uuk2gs73c6dmk0/deploys/dep-d55uk26uk2gs73c6dn4g
